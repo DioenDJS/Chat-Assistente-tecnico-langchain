@@ -16,4 +16,7 @@
 Implementa um `chat de assistência técnica` para uma empresa, cujo objetivo é atender o cliente no primeiro contato e sugerir possíveis soluções para o problema apresentado. As sugestões são baseadas nas instruções fornecidas pelo fabricante no manual do produto.
 
 O assistente também tem capacidade de consultar as conversas anteriores, utilizando um histórico armazenado em um banco de dados SQLite. Isso permitirá que ele evite fornecer respostas repetidas.
-![image](https://github.com/user-attachments/assets/be6b4c22-b6a4-4c72-bad8-88cf63562ff5)
+![image](https://github.com/user-attachments/assets/83d853c6-f4e8-42cf-8913-1e3ba461513a)
+
+### database:
+![image](https://github.com/user-attachments/assets/3c91af8f-8de1-4d62-808e-15874340e42f)
